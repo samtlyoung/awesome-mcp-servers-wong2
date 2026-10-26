@@ -552,6 +552,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+- **[levelcfo/open-finance-skills](https://github.com/levelcfo/open-finance-skills)** - MCP server and 20 financial verification skills for general-ledger reconciliation, working-capital benchmarks, and commercial building cost modeling ([Docs](https://levelcfo.com/finance-systems/)).
 
 ## Clients
 
